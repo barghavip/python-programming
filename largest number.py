@@ -2,7 +2,7 @@ a=input()
 b=input()
 c=input()
 if a>b and a>c:
-   d=a
+    d=a
 elif b>c:
     d=b
 else:
