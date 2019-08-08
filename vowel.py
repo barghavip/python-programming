@@ -4,6 +4,6 @@ c=['b','c','d','f','g','h','j','k','l','m','n','p','q','r','s','t','u','v','w','
 if a in v:
     print('Vowel')
 elif a in c:
-    print('consonant')
+    print('Consonant')
 else:
     print('invalid')
