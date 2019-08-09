@@ -1,4 +1,4 @@
 n=int(input())
 k=int(input())
-s=n**k
-print(s)
+answer=n**k
+print(answer)
