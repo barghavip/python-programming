@@ -8,5 +8,5 @@ for i in range(n1,n2+1):
         sum=sum+(t%10)**l
         t=t//10
     if sum==i:
-        print(i)
+        print(i,end=' ')
     
