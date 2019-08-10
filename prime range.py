@@ -6,6 +6,6 @@ for x in range(start,end+1):
             if(x%i)==0:
              break
         else:
-            print(x)
+            print(x,end=' ')
         
     
