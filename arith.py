@@ -1,0 +1,6 @@
+N=int(input())
+A=int(input())
+D=int(input())
+O=(N/2)*(2*A+(N-1)*D)
+K=int(O)
+print(K)
